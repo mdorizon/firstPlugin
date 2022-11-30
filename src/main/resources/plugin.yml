@@ -1,0 +1,7 @@
+name: 'firstPlugin'
+version: '${project.version}'
+main: fr.wakusay.firstplugin.FirstPlugin
+api-version: 1.19
+authors: [ Wakusay ]
+description: premier plugin de wakusay
+website: https://vanezia.fr
